@@ -11,4 +11,46 @@ Take look at the below image for better understanding
 
 # How to install
 
+```python
+
+- git clone https://github.com/moulik-source/ddos
+- ls 
+- cd ddos
+- python ddos.py http://target 
+
+```
+
+# How to use
+
+```python 
+
+To use just enter python ddos.py http://10.10.10.1
+
+
+```
+
+![animation11111232](https://user-images.githubusercontent.com/62848840/132537286-987cbd41-d01a-4a40-b528-e56ab2fa17cd.gif)
+
+
+# Interface
+
+![2021-09-08 20_50_19-Kali-Linux-2020 4-vmware-amd64 - VMware Workstation 16 Player (Non-commercial us](https://user-images.githubusercontent.com/62848840/132537709-d7c67980-7e82-4f2a-afd3-13b1b6854222.png)
+
+# Disclaimer 
+
+The use of this tool is your responsability. Use parsero to audit your own servers or servers you are allowed to scan. I hereby disclaim any responsibility for actions taken with this tool.
+
+# Author
+
+Moulik
+Web: http://www.techyrick.com
+contact: http://techyrick.com/contact
+Blog: http://techyrick.com/blog
+
+# Donate
+
+![giphy (1)](https://user-images.githubusercontent.com/62848840/132538104-3f8f197e-2dcf-424a-98b5-b02a51db77be.gif)
+
+bc1q7p0cfzyrqvlzswwpqrt5hu382nq2uctylp8at9
+
 
